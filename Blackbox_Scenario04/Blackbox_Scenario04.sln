@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackbox_Scenario04", "Blackbox_Scenario04.csproj", "{86E88DA4-EA83-44C5-9D7D-3BF229C9DD61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86E88DA4-EA83-44C5-9D7D-3BF229C9DD61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E88DA4-EA83-44C5-9D7D-3BF229C9DD61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E88DA4-EA83-44C5-9D7D-3BF229C9DD61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E88DA4-EA83-44C5-9D7D-3BF229C9DD61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82AB1B1E-A3CD-40FA-99C9-D618DA86E133}
+	EndGlobalSection
+EndGlobal
